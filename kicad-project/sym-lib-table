@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bg1ren)(type Legacy)(uri ${KIPRJMOD}/../ee-libs/kicad/bg1ren.lib)(options "")(descr ""))
+)

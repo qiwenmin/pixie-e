@@ -1,0 +1,3 @@
+[submodule "ee-libs"]
+	path = ee-libs
+	url = git@github.com:qiwenmin/ee-libs.git
