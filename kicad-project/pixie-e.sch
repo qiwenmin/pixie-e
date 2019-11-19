@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Pixie-E"
-Date "2019-11-18"
+Date "2019-11-19"
 Rev "V02"
 Comp ""
 Comment1 ""
@@ -134,7 +134,7 @@ L Device:C_Variable C2
 U 1 1 5D220906
 P 1200 2050
 F 0 "C2" H 1315 2096 50  0000 L CNN
-F 1 "40" H 1315 2005 50  0000 L CNN
+F 1 "60" H 1315 2005 50  0000 L CNN
 F 2 "bg1ren:TZ03-F" H 1200 2050 50  0001 C CNN
 F 3 "~" H 1200 2050 50  0001 C CNN
 	1    1200 2050
@@ -1374,5 +1374,5 @@ $EndComp
 Wire Wire Line
 	7950 3750 7950 3650
 Text Notes 5400 7550 0    50   ~ 0
-20m band:\nY1 - 14.x MHz\nL3, L4 - 470uH\nC13, C15 - 220pF\nC14 - 470pF\nC16 - omitted
+20m band:\nY1 - 14.x MHz\nL3, L4 - 470uH\nC13, C15 - 220pF\nC14 - 470pF\nC16 - 56pF
 $EndSCHEMATC
