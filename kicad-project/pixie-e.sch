@@ -1374,5 +1374,5 @@ $EndComp
 Wire Wire Line
 	7950 3750 7950 3650
 Text Notes 5400 7550 0    50   ~ 0
-20m band:\nY1 - 14.x MHz\nL3, L4 - 470uH\nC13, C15 - 220pF\nC14 - 470pF\nC16 - 56pF
+20m band:\nY1 - 14.x MHz\nL3, L4 - 470nH\nC13, C15 - 220pF\nC14 - 470pF\nC16 - 56pF
 $EndSCHEMATC
