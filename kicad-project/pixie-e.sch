@@ -1346,7 +1346,7 @@ $EndComp
 Text Label 10200 6000 0    50   ~ 0
 V+
 Text Notes 750  7550 0    50   ~ 0
-U2 - The firmware is  pnm (3p-7n-mute).\nR2 - 220, 470 or 1K. A smaller resistor brings more tx power.\nR5 - Shorting it may reduce the BCI.\nR13 - From 1K to 10K - to adjust the volume of the sidetone.\nR15 - Optional. For decreasing the sidetone volume with an external audio amplifier.\nC8 - Changing to 22n or 10n may reduce clicks/pops.\n
+U2 - The firmware is pnm (3p-7n-mute).\nR2 - 220, 470 or 1K. A smaller resistor brings more tx power.\nR5 - Shorting it may reduce the BCI.\nR13 - From 1K to 10K - to adjust the volume of the sidetone.\nR15 - Optional. For decreasing the sidetone volume with an external audio amplifier.\nC8 - Changing to 22n or 10n may reduce clicks/pops.\n
 $Comp
 L Device:R R15
 U 1 1 5DC579B7
