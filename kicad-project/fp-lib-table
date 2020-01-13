@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name bg1ren)(type KiCad)(uri ${KIPRJMOD}/../ee-libs/kicad/bg1ren.pretty)(options "")(descr ""))
+  (lib (name xi)(type KiCad)(uri ${KIPRJMOD}/../ee-libs/kicad/xi.pretty)(options "")(descr ""))
 )
